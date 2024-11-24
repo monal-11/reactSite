@@ -1,0 +1,10 @@
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 80px); /* Full height minus navbar and footer */
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4; /* Optional for contrast */
+  }
+  
